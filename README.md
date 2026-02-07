@@ -23,7 +23,7 @@ This repository contains **Jupyter notebooks demonstrating foundational machine 
 
 1. Clone the repository:  
    ```bash
-   git clone <your-repo-link>
+   git clone <https://github.com/Jeeni18/Fundamentals-of-ML>
 2. Open the Jupyter notebooks in Jupyter Lab or Jupyter Notebook.
 
 3. Run the cells sequentially to reproduce results.
